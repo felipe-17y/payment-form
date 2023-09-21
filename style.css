@@ -1,0 +1,22 @@
+#header-form{
+    background-color: bisque;
+}
+#error-form{
+    background-color: aquamarine;
+    color: brown;
+}
+#pics{
+    width: 80px;
+    height: 40px;
+
+}
+#fondo{
+    background-color: aliceblue;
+}
+#foot{
+    margin: 10px;
+
+}
+#botplo{
+    margin: 10px;
+}
